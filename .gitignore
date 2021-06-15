@@ -1,2 +1,4 @@
+log*
 *.dat
-results/
+!final.dat
+results/plots
